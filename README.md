@@ -1,9 +1,9 @@
 # 📊 SMB Seller Performance Analysis
 
 ## 📓 Notebook Analisis
-- [`Data_Pre-Processing_e-commerce.ipynb`](Notebook\Data_Pre-Processing_e-commerce.ipynb)  
+- [`Data_Pre-Processing_e-commerce.ipynb`](notebook\Data_Pre-Processing_e-commerce.ipynb)  
   Notebook yang berisi proses persiapan data, baik dari data cleaning hingga agregrasi dataset
-- [`EDA_e-commerce.ipynb`](Notebook\EDA_e-commerce.ipynb)  
+- [`EDA_e-commerce.ipynb`](notebook\EDA_e-commerce.ipynb)  
   Notebook utama yang berisi proses eksplorasi data, untuk menjawab business question.
   
 ## 📌 Project Overview
