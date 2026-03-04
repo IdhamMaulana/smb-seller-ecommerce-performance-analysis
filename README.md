@@ -1,5 +1,11 @@
 # 📊 SMB Seller Performance Analysis
 
+## 📓 Notebook Analisis
+- [`Data_Pre-Processing_e-commerce.ipynb`](Notebook\Data_Pre-Processing_e-commerce.ipynb)  
+  Notebook yang berisi proses persiapan data, baik dari data cleaning hingga agregrasi dataset
+- [`EDA_e-commerce.ipynb`](Notebook\EDA_e-commerce.ipynb)  
+  Notebook utama yang berisi proses eksplorasi data, untuk menjawab business question.
+  
 ## 📌 Project Overview
 
 Proyek ini menganalisis performa seller UMKM pada marketplace. Tujuan utama analisis ini adalah mengidentifikasi perbedaan karakteristik antara seller dengan performa tinggi dan rendah serta menentukan strategi yang dapat membantu seller kecil meningkatkan performa penjualan mereka.
