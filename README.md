@@ -23,7 +23,7 @@ Sebagian besar penjual di marketplace merupakan pelaku UMKM yang secara kolektif
 
 ## 📂 Dataset
 
-Dataset yang digunakan adalah [Brazilian E-Commerce Public Dataset (Olist)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) **** yang tersedia di Kaggle.
+Dataset yang digunakan adalah [Brazilian E-Commerce Public Dataset (Olist)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) yang tersedia di Kaggle.
 
 Dataset ini terdiri dari beberapa tabel utama:
 
